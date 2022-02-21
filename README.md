@@ -1,56 +1,33 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Math-Magician
 
-# Project Name
-
-> Description the project.
+> Project for getting starting with React.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS, and JavaScript
+- React
+- git/GitHub
 
-## Live Demo (if available)
+<!-- ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]() -->
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+### `Getting Started
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+  - go to the directory that you want to clone the repository in.
+  - right click and choose Git Bash here.
+  - type "git clone https://github.com/BereketRetta/Math-Magician.git".
+  - run "npm install" and then "npm start"
 
-### Setup
+## Author
 
-### Install
+👤 **Yishak**
 
-### Usage
+- GitHub: [BereketRetta](https://github.com/BereketRetta)
+- LinkedIn: [@BereketRetta](https://www.linkedin.com/in/bereket-retta/)
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,6 +44,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
 
 ## 📝 License
 
