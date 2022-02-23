@@ -22,7 +22,8 @@ To get a local copy up and running follow these simple example steps.
   - go to the directory that you want to clone the repository in.
   - right click and choose Git Bash here.
   - type "git clone https://github.com/BereketRetta/Math-Magician.git".
-  - run "npm install" and then "npm start"
+  - run "npm install" 
+  - run "npm start"
 
 ## Author
 
