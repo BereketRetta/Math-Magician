@@ -12,9 +12,9 @@
 - React
 - git/GitHub
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link]() -->
+[Live Demo Link](https://bereketretta.github.io/Math-Magician/)
 
 ### `Getting Started
 To get a local copy up and running follow these simple example steps.
