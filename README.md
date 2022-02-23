@@ -1,7 +1,10 @@
-# Math-Magician
+# Math Magicians
 
-> Project for getting starting with React.
+> Math-magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+> Make simple calculations.
+> Read a random math-related quote.
 
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
@@ -19,11 +22,12 @@ To get a local copy up and running follow these simple example steps.
   - go to the directory that you want to clone the repository in.
   - right click and choose Git Bash here.
   - type "git clone https://github.com/BereketRetta/Math-Magician.git".
-  - run "npm install" and then "npm start"
+  - run "npm install" 
+  - run "npm start"
 
 ## Author
 
-👤 **Yishak**
+👤 **Bereket**
 
 - GitHub: [BereketRetta](https://github.com/BereketRetta)
 - LinkedIn: [@BereketRetta](https://www.linkedin.com/in/bereket-retta/)
