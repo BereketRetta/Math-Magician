@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://bereketretta.github.io/Math-Magician/)
+[Netlify](https://mathmagicians101.netlify.app/)
 
 ### `Getting Started
 To get a local copy up and running follow these simple example steps.
