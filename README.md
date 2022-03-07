@@ -15,6 +15,7 @@
 ## Live Demo
 
 [Netlify](https://mathmagicians101.netlify.app/)
+[HerokuApp](https://mathmagicians101.herokuapp.com/)
 
 ### `Getting Started
 To get a local copy up and running follow these simple example steps.
